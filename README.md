@@ -1,6 +1,6 @@
 # Arbitrariedade de Rótulo de Gênero no MTG-Jamendo
 
-<span style="color: red">Investigação sobre a confiabilidade de rótulos de gênero musical no MTG-Jamendo Dataset.🎼</span>
+<span style="color: #00ff00">Investigação sobre a confiabilidade de rótulos de gênero musical no MTG-Jamendo Dataset.🎼</span>
 
 Quando a gente ouve música em plataformas digitais, cada faixa costuma vir "etiquetada" com um gênero: rock, pop, reggaeton, jazz... Mas será que essa etiqueta é sempre confiável? Ou será que, na prática, uma mesma música poderia facilmente ter recebido uma etiqueta diferente, dependendo de quem a classificou ou de puro acaso?
 

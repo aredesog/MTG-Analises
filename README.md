@@ -1,2 +1,3 @@
-# MTG-Analises
-Analise do ruido de rotulo do dataset de MTG-JAMENDO 
+# Arbitrariedade de Rótulo de Gênero no MTG-Jamendo
+
+## Investigação sobre a confiabilidade de rótulos de gênero musical em datasets de MIR (Music Information Retrieval), com foco no MTG-Jamendo Dataset.🎼
